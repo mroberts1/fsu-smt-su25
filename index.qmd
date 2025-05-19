@@ -16,7 +16,7 @@ title: '  '
 [Communications Media Department](https://www.fitchburgstate.edu/academics/academic-schools/school-arts-and-sciences/communications-media-department)\
 [MS in Applied Communication: Social Media Concentration](https://www.fitchburgstate.edu/academics/programs/social-media-concentration-applied-communication-ms-online)\
 GCE Online-Accelerated\
-7 weeks, Mon 20 May---Sun 7 July 2024\
+7 weeks, Mon 19 May---Sun 6 July 2025\
 Instructor: Dr. Martin Roberts\
 [Syllabus](https://mroberts1.github.io/fsu-smt-su24)\
 [GitHub repository](https://github.com/mroberts1/fsu-smt-su24)
@@ -58,50 +58,25 @@ By the end of the course, students will be able to:
 
 ## Course Texts
 
-All sources are available online or PDFs will be posted on Blackboard.
-
--   Byung-Chul Han, **In The Swarm: Digital Prospects** (Cambridge, MA: MIT Press, 2017).
-
--   Robert Pfaller, **Interpassivity: The Aesthetics of Delegated Enjoyment** (Edinburgh: Edinburgh University Press, 2017).
-
--   Whitney Phillips and Ryan M. Milner, **You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape** (Cambridge: MIT Press, 2021).
-
--   Kaitlyn Tiffany, **Everything I Need I Get From You: How Fangirls Created the Internet as We Know It** (Oxford: Blackwell’s, 2022).
+All weekly reading assignments are linked directly to online sources. Please download and print out PDFs during the first week of the course.
 
 ## Course Information
 
 **Blackboard**\
 We will be using the Blackboard Learning Management System (LMS) as the primary platform for the course. Please be sure to check in to the site at least once daily M-F to check the Announcements page and the Discussion forum for the week.
 
-:::::: solutionbox
-:::: solutionbox-header
-::: solutionbox-icon
-:::
-
-Sources
-::::
-
-::: solutionbox-body
-Reading assignments will be either from Required texts, linked to online, or available as PDF documents.
-
-PDF documents and the syllabus will be available for download in the [Course Repository](https://github.com/mroberts1/social-media-theory-summer-2022) hosted on GitHub: please bookmark this link.
-
-The <pdf> folder on the repo will have copies of all PDF chapters and articles, which may be downloaded either individually (click on the document in question and then the Download button) or collectively in the zip file.
-:::
-::::::
-
 ## Assignments / Evaluation
 
--   **Review**: 6, weekly from Week 1, one short post responding to readings, 250 words (maximum), due by Friday (20%)\
--   **Discussion**: weekly after Week 1, 2-3 responses to other students' posts., 100 words max., due by the *following* Friday (20%)\
--   **Commentary**: 2 short papers, 750-1000 words, due Sunday of Week 2 and Week 4 (20%)\
--   **Research paper/report/other project**: 2,000 words, due Sunday of week 7 (20%)
--   **Digital Garden** (practical project, ongoing - information will be provided) (20%)
+- **Review**: 6, weekly from Week 1, one short post responding to at least one of the readings, 250 words (maximum), due by Sunday (15%)\
+- **Discussion**: weekly after Week 1, 2-3 responses to other students' posts., due by the *following* Sunday (15%)\
+- **Commentary**: 2 short papers, 1000 words, due Sunday of Week 2 and Week 4 (20%)\
+- **Keywords**: 500-750 words on a key concept in social media theory, with bibliography/references, due Sunday of Week 4 (25%)\
+- **Platform Case Study**: 2,000 words, due Sunday of Week 7 (250%)
 
 **Discussion: Agenda, Review, Reply Posts**\
 For Weeks 1-6, each of the weekly topics will be active across a cycle of two weeks.
 
-By **Wednesday** of each week, I will post an Agenda item in the Discussion forum for the topic of the week, that introduces and contextualizes the reading assignments for the week, identifying key themes, concepts, and/or issues to look out for as you read. Be sure to read the Agenda post before beginning the reading assignments.
+By **Wednesday** of each week, I will post an Agenda item in the Discussion forum for the topic of the week that discusses the reading assignments for the week, identifying key themes, concepts, and/or issues to look out for as you read. Be sure to read the Agenda post before beginning the reading assignments.
 
 In the first week, complete the reading assignments and make an initial response post called a Review, with question and/or comments on them, by **Sunday** of the week in question.
 
@@ -110,84 +85,120 @@ In the second week, read through the Review posts of the group and post at least
 **Commentary Papers**\
 These short papers (750-1,000 words) are due at the end of Week 2 and Week 4 (Sunday). They should consist of close analytical readings of any of the reading assignments for the period Weeks 1-2 or 3-4. You are encouraged to focus in detail on particular sections, arguments, and/or concepts from the readings and develop them.
 
-**Research Paper/Project**\
-The culminating written assignment for the course (2,000 words) may consist of various formats: a research paper or report, or a creative project of your choice.
+**Platform Case Study**\
+The culminating written assignment for the course (2,000 words) may consist of a research paper or report.
 
-A 1-page preliminary proposal with ideas for your project, with a short bibliography with sources and/or links, should be posted in the Discussion forum for the purpose by the end of Week 3, and you will receive feedback during Week 4.
+A 1-page preliminary proposal with ideas for your project, with a short bibliography with sources and/or links, should be posted in the Discussion forum for the purpose by the end of Week 5, and you will receive feedback during Week 6.
+
+## Keywords
+
+- Imagined Audience
+- Below the Radar (Alternative Social Media)
+- Bot
+- Livestreaming
+- Parasociality
+- Platformization
+
+## Research Topics
+
+- Film TikTok
+- \#Booktok
+- Global Labor and the Gig Economy
+- Dark Forest Theory of the Internet
 
 ## Schedule
 
-**Week 1** M 05/20
+*Week 1* M 05/19
 
-**Interpassive Aggressive**
+**I. Theorizing Social Media**
 
-Rob Horning, **Internal Exile** (blog)
+**Infinite Content**
 
--   “[Empires of Modern Passivity](https://robhorning.substack.com/p/empires-of-modern-passivity?r=1dbr0j&utm_medium=ios&triedRedirect=true)” (17 May 2024) \[Please read the linked references also\]
--   “[A Delightful Intuitive Companion](https://robhorning.substack.com/p/a-delightful-intuitive-companion?utm_source=substack&publication_id=1073994&post_id=141075725&utm_medium=email&utm_content=share&utm_campaign=email-share&isFreemail=true&r=1dbr0j&triedRedirect=true)” (26 January 2024)
--   Robert Pfaller, "Introduction" \[[pdf](pdf/interpassivity-intro.pdf)\] (*Interpassivity: The Aesthetics of Delegated Enjoyment*)
-
-------------------------------------------------------------------------
-
-**Week 2** M 05/27
-
-**Digital Swarms**
-
--   Byung-Chul Han, "No Respect"; "Outrage Society"; "In The Swarm" (**In The Swarm: Digital Prospects**, chs. 1-3) \[[pdf](pdf/in-the-swarm.pdf)\]
--   Cathy O'Neil, "Humiliation and Defiance" (**The Shame Machine: Who Profits in the New Age of Humiliation**, ch. 6) \[[pdf](pdf/shame-machine-karens.pdf)\]
+- Caroline Busta, "[Hallucinating sense in the era of infinity-content](https://www.documentjournal.com/2024/05/technical-images-film01-angelicism-art-showtime-true-detective-shein/)" ([**Document**](https://www.documentjournal.com/), 29 May 2024)
+- Nicole Lipman, "[Super Cute Please Like](https://www.nplusonemag.com/issue-47/reviews/super-cute-please-like)" (**n+1** 47 (Spring 2024))
+- Timo Kollbrunner, "[Toiling Away for Shein](https://stories.publiceye.ch/en/shein/)" ([**Public Eye**](https://www.publiceye.ch/en/), November 2021)
 
 ------------------------------------------------------------------------
 
-**Week 3** M 06/03
+*Week 2* M 05/26
 
-**Smile for the Camera: Selfies**
+**Our Algorithms, Ourselves**
 
--   Jenka Gurfinkel, “[AI and the American Smile](https://medium.com/@socialcreature/ai-and-the-american-smile-76d23a0fbfaf)” (**Medium**, 17 March 2023)
--   Michael Standaert, "[Smile for the Camera: The Dark Side of China's Emotion-Recognition Tech](https://www.theguardian.com/global-development/2021/mar/03/china-positive-energy-emotion-surveillance-recognition-tech)" (**The Guardian**, 3 March 2021)
-
-------------------------------------------------------------------------
-
-**Week 4** M 06/10
-
-**Fangirls**
-
--   Nancy Baym, “[Introduction: The Intimate Work of Connection](pdf/playing-to-the-crowd-intro.pdf)” (**Playing to the Crowd**, Introduction)
--   Kaitlyn Tiffany, [**Everything I Need I Get From You**](pdf/kaitlyn-tiffany.pdf) (it's a big excerpt - read at least the Introduction and the first couple of chapters)
+- Sophie Bishop and Tanya Kant, "[Algorithmic autobiographies and fictions: A digital method](https://journals.sagepub.com/doi/epub/10.1177/00380261221146403)"
+- Sophie Bishop, "[Algorithmic Experts: Selling Algorithmic Lore on YouTube](https://journals.sagepub.com/doi/epub/10.1177/2056305119897323)"
+- [Kyle Chayka](https://www.kylechayka.com/), "[Introduction](pdf/filterworld-intro.pdf)" (**Filterworld**)
+- [Kyle Chayka](https://www.kylechayka.com/), "[The Rise of Algorithmic Recommendations](pdf/filterworld-ch1.pdf)" (**Filterworld**, ch. 1)
+- See also: Taylor Lorenz, "Internet 'algospeak' is changing our language in real time, from 'nip nops' to 'le dollar bean'" (**Washington Post**, 8 April 2022)
 
 ------------------------------------------------------------------------
 
-**Week 5** M 06/17
+*Week 3* M 06/02
 
-**Females**
+**Influencers**
 
--   [Alex Quicho](https://amfq.xyz/), “[Everyone is a Girl Online](https://www.wired.com/story/girls-online-culture/)” (**WIRED**, 11 September 2023)
+- [Sophie Bishop](https://sophiebishop.co.uk/), "[Influencer Creep](https://reallifemag.com/influencer-creep/)"
+- [Sophie Bishop](https://sophiebishop.co.uk/), "[Influencer creep: How artists strategically navigate the platformisation of art worlds](https://journals.sagepub.com/doi/epub/10.1177/14614448231206090)"
 
--   Emma Copley Eisenberg, “[Notes on Frump: A Style for the Rest of Us](https://www.heyalma.com/notes-on-frump-a-style-for-the-rest-of-us/)” (**heyalma**, 10 August 2017)
+See also:
 
-------------------------------------------------------------------------
-
-**Week 6** M 06/24
-
-**Toxic Cleanup**
-
-Ryan Milner and Whitney Phillips, **You Are Here**
-
--   ch. 5: "[Cultivating Ecological Literacy](pdf/you-are-here-ch5.pdf)" (skip opening section in italics)
--   ch. 6: "[Choose Your Own Ethics Adventure](pdf/you-are-here-ch6.pdf)"
+- [Sophie Bishop](https://sophiebishop.co.uk/), "[How to Research Online Influencers](https://sophiebishop.co.uk/wp-content/uploads/2023/12/how-to-research-online-influencers.pdf)"
+- [Sophie Bishop](https://sophiebishop.co.uk/), "[Influencer Management Tools: Algorithmic Cultures, Brand Safety, and Bias](https://journals.sagepub.com/doi/epub/10.1177/20563051211003066)"
 
 ------------------------------------------------------------------------
 
-**Week 7** M 07/01
+*Week 4* M 06/09
 
-**The Dark Forest**
+**II. Platform Cultures**
 
--   Maggie Appleton, "[The Dark Forest & The Cozy Web](https://maggieappleton.com/cozy-web)"
--   Yancey Strickler, “[The Dark Forest Theory of the Internet](pdf/yancey-strickler-medium-pt1.pdf)”; “[Beyond The Dark Forest Theory of the Internet](pdf/yancey-strickler-medium-pt2.pdf)” (2019)
+**Books**
+
+- Jessica Maddox and Fiona Gill, "[Assembling 'Sides' of TikTok: Examining Community, Culture, and Interface through a BookTok Case Study](https://journals.sagepub.com/doi/epub/10.1177/20563051231213565)"
+- José M. Tomasena, "[Negotiating Collaborations: BookTubers, The Publishing Industry, and YouTube’s Ecosystem](https://journals.sagepub.com/doi/epub/10.1177/2056305119894004)"
+
+See also: 
+
+- Alysia De Melo, "[The Influence of BookTok on Literary Criticisms and Diversity](https://journals.sagepub.com/doi/epub/10.1177/20563051241286700)"
+- Michael Dezuanni and Amy Schoonens, "[\#BookTok’s Peer Pedagogies: Invitations to Learn About Books and Reading on TikTok](https://journals.sagepub.com/doi/epub/10.1177/20563051241309499)"
+
+------------------------------------------------------------------------
+
+*Week 5* M 06/16
+
+**Music**
+
+- David Hesmondhalgh, Ellis Jones, and Andreas Rauh, "[Soundcloud and Bandcamp as Alternative Music Platforms](https://journals.sagepub.com/doi/epub/10.1177/2056305119883429)"
+- Jeremy Wade Morris, "[Music Platforms and the Optimization of Culture](https://journals.sagepub.com/doi/epub/10.1177/2056305120940690)"
+- Robin James, "[Moving in Stereo](https://reallifemag.com/moving-in-stereo/)"
+- D. Bondy Valdovinos Kaye, "[JazzTok: Creativity, Community,
+and Improvisation on TikTok](https://scholarlypublishingcollective.org/uip/jac/article/6/2/92/383572/JazzTok-Creativity-Community-and-Improvisation-on)"
+
+------------------------------------------------------------------------
+
+*Week 6* M 06/23
+
+**Media**
+
+- Sun Sun Lim, "[On Stickers and Communicative Fluidity in Social Media](https://journals.sagepub.com/doi/epub/10.1177/2056305115578137)"
+- Sunny Yoon, "[Webtoons, Desperately Seeking Viewers: Interactive Creativity in Social Media Platforms and Cultural Appropriation of Global Media Production](https://journals.sagepub.com/doi/epub/10.1177/20563051241292577)"
+- Kate M. Miltner and Tim Highfield, "[Never Gonna GIF You Up: Analyzing the Cultural Significance of the Animated GIF](https://journals.sagepub.com/doi/epub/10.1177/2056305117725223)"
+- Luke Stark and Kate Crawford, "[The Conservatism of Emoji: Work, Affect, and Communication](https://journals.sagepub.com/doi/epub/10.1177/2056305115604853)"
+
+------------------------------------------------------------------------
+
+*Week 7* M 06/30
+
+**Aesthetics**
+
+- Robin James, "[New Normal](https://reallifemag.com/new-normal/)"
+- Paul Roquet, "[In the Mood](https://reallifemag.com/in-the-mood/)"
+- Guilherme Giolo and Michaël Berghman, "The Aesthetics of the Self: The Meaning-Making of Internet Aesthetics"
+- See also: [Aesthetics Wiki](https://aesthetics.fandom.com/wiki/Aesthetics_Wiki) (read all articles in the section called "What Are Aesthetics?" and explore the site)
 
 ------------------------------------------------------------------------
 
 ## Resources
 
+[Sophie Bishop](https://sophiebishop.co.uk/)\ (works on influencer culture)
 [Abbie Richards](https://www.abbiesr.com/about) (TikTok researcher, Media Matters)
 
 ## Bibliography
@@ -198,21 +209,54 @@ Amy Bruckman, **Should You Believe Wikipedia? Online Communities and the Constru
 
 Finn Brunton and Helen Nissenbaum, **Obfuscation: A User's Guide for Privacy and Protest** (Cambridge: MIT Press, 2016).
 
+Alessandro Caliandro and James Graham, "[Studying Instagram Beyond Selfies](https://journals.sagepub.com/doi/epub/10.1177/2056305120924779)"
+
+[Kyle Chayka](https://www.kylechayka.com/), **Filterworld: How Algorithms Flattened Culture**. New York: Doubleday, 2024.
+
 Gabriella Coleman, **Hacker, Hoaxer, Whistleblower, Spy: The Many Faces of Anonymous** (London and New York: Verso, 2014).
 
 Claire Dederer, **Monsters: A Fan's Dilemma** (New York: Alfred A. Knopf, 2023).
 
+[Kate Eichhorn](https://emerson.edu/faculty-staff-directory/kate-eichhorn), [**Content**](https://mitpress.mit.edu/9780262543286/content/). Essential Knowledge Series. Cambridge, MA: MIT Press, 2022.
+
+Alysia De Melo, "[The Influence of BookTok on Literary Criticisms and Diversity](https://journals.sagepub.com/doi/epub/10.1177/20563051241286700)"
+
+Michael Dezuanni and Amy Schoonens, "[\#BookTok’s Peer Pedagogies: Invitations to Learn About Books and Reading on TikTok](https://journals.sagepub.com/doi/epub/10.1177/20563051241309499)"
+
+Brooke Erin Duffy, Thomas Poell, and David B Nieborg, "[Platform Practices in the Cultural Industries: Creativity, Labor, and Citizenship](https://journals.sagepub.com/doi/epub/10.1177/2056305119879672)"
+
+Larissa Hjorth and Natalie Hendry, "[A Snapshot of Social Media: Camera Phone Practices](https://journals.sagepub.com/doi/epub/10.1177/2056305115580478)"
+
 Sarah J. Jackson, Moya Bailey, et al., **#Hashtag Activism: Networks of Race and Gender Justice** (Cambridge: MIT Press, 2020).
+
+[Christine Lagorio-Chafkin](https://x.com/lagorio), **We Are the Nerds: The Birth and Tumultuous Life of Reddit, the Internet's Culture Laboratory**. New York: Hachette Books, 2018.
+
+Jin Lee and Crystal Abidin, "[Introduction to the Special Issue of 'TikTok and Social Movements'](https://journals.sagepub.com/doi/epub/10.1177/20563051231157452)"
+
+Jessica Maddox and Fiona Gill, "[Assembling 'Sides' of TikTok: Examining Community, Culture, and Interface through a BookTok Case Study](https://journals.sagepub.com/doi/epub/10.1177/20563051231213565)"
 
 Gary Marcus & Ernest Davis, **Rebooting AI: Building Artificial Intelligence We Can Trust** (New York: Pantheon Books, 2019).
 
 Angela Nagle, **Kill All Normies: Online Culture Wars From 4Chan and Tumblr to Trump and the Alt-Right** (Alresford, Hampshire, UK: Zero Books, 2017). \* Cathy O'Neil, with Stephen Baker, **The Shame Machine: Who Profits in the New Age of Humiliation** (New York: Crown/Random House, 2022).
 
+David B Nieborg, Brooke Erin Duffy, and Thomas Poell, "[Studying Platforms and Cultural Production: Methods, Institutions, and Practices](https://journals.sagepub.com/doi/epub/10.1177/2056305120943273)"
+
+[Parmy Olson](https://x.com/parmy), **Supremacy: AI, ChatGPT, and the Race that Will Change the World**. New York: MacMillan, 2024.
+
 Whitney Phillips, **This Is Why We Can't Have Nice Things: Mapping the Relationship between Online Trolling and Mainstream Culture** (Cambridge: MIT Press, 2015).
 
 Whitney Phillips and Ryan M. Milner, **You Are Here: A Field Guide for Navigating Polarized Speech, Conspiracy Theories, and Our Polluted Media Landscape** (Cambridge: MIT Press, 2021).
 
-Allissa V, Richardson, **Bearing Witness While Black: African Americans, Smartphones, and the New Protest #Journalism** (Oxford: Oxford University Press, 2020).
+Nicholas Proferes et al., "[Studying Reddit: A Systematic Overview of Disciplines, Approaches, Methods, and Ethics](https://journals.sagepub.com/doi/epub/10.1177/20563051211019004)"
+
+[Allissa V. Richardson](https://allissavrichardson.com), **Bearing Witness While Black: African Americans, Smartphones, and the New Protest #Journalism**. Oxford: Oxford University Press, 2020.
+
+Jonathan Schroeder, "[Snapshot Aesthetics and the Strategic Imagination](https://www.invisibleculturejournal.com/pub/snapshot-aesthetics/release/1)" ([**Invisible Culture: A Journal for Visual Culture**](https://www.invisibleculturejournal.com/)) 10 (10 April 2013)
+
+Kseniya Stsiampkouskaya et al., "[Imagined Audiences, Emotions, and
+Feedback Expectations in Social Media Photo Sharing](https://journals.sagepub.com/doi/epub/10.1177/20563051211035692)"
+
+José M. Tomasena, "[Negotiating Collaborations: BookTubers, The Publishing Industry, and YouTube’s Ecosystem](https://journals.sagepub.com/doi/epub/10.1177/2056305119894004)"
 
 ## Late Policy
 
