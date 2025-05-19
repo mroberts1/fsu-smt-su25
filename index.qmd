@@ -4,9 +4,18 @@ title: '  '
 
 # COMM 7018: Social Media Theory
 
-::: {.content-visible when-format="html"}
-[![](img/polyducks.gif)](https://www.polyducks.co.uk)
+:::: {.content-visible when-format="html"}
+::: {layout="[[50, 50]]"}
+[![](img/polyducks.gif){fig-alt="Shibuya Crossing Walkabout, by UK digital artist Ben Jones, aka Polyducks"}](http://polyducks.co.uk/)
+
+[Fitchburg State University](https://fitchburgstate.edu)\
+[Communications Media Department](https://www.fitchburgstate.edu/academics/academic-schools/school-arts-and-sciences/communications-media-department)\
+[MS in Applied Communication: Social Media Concentration](https://www.fitchburgstate.edu/academics/programs/social-media-concentration-applied-communication-ms-online)\
+GCE Online-Accelerated\
+Mon 19 May---Sun 6 July 2025\
+Dr. Martin Roberts
 :::
+::::
 
 :::: {.content-visible when-format="pdf"}
 ::: {layout="[[49, -2, 49]]"}
