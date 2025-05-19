@@ -48,7 +48,7 @@ format:
   html:
     toc: true
     toc-depth: 2
-    toc-location: right
+    toc-location: left
     toc-title: '   '
     theme:
       light: [ember.scss, custom_callouts.scss]
