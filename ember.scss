@@ -32,7 +32,7 @@ $font-family-base: "Helvetica Neue", sans-serif;
 // litera is serif by default: revert to san-serif
 p, li, {
   font-family: $font-family-base;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 h1 {
@@ -51,22 +51,22 @@ h2, h3, h4, h5, h6 {
 }
 
 a:link {
-  text-decoration: none;
   color: #235440;
-  // text-decoration-color: #235440;
-  //text-decoration-thickness: 1px;
-  //text-underline-offset: 3px;
+  text-decoration: none;
+  //text-decoration-color: #235440;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
 }
 a:visited {
     text-decoration: none;
-    color: #429A77;
     //text-decoration-color: #235440;
     //text-decoration-thickness: 1px;
     //text-underline-offset: 3px;
 }
 a:hover {
-  //color: #235440;
-  text-decoration: underline;
+  color: white;
+  text-decoration: none;
+  background-color: #429A77;
   //text-decoration-color: #235440;
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
