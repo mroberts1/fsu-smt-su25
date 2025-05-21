@@ -13,7 +13,11 @@ title: '  '
 [MS in Applied Communication: Social Media Concentration](https://www.fitchburgstate.edu/academics/programs/social-media-concentration-applied-communication-ms-online)\
 GCE Online-Accelerated\
 Mon 19 May---Sun 6 July 2025\
-Dr. Martin Roberts
+Dr. Martin Roberts\
+[Syllabus](https://mroberts1.github.io/fsu-smt-su25/) (outside Blackboard)\
+[Discord](https://discord.gg/svQUpv8W)\
+[YouTube](https://youtube.com/playlist?list=PLx7AcHafElRjqnn6tRYbIEH517L20tt91&si=PwYfFjJ38arD1SUY)\
+
 :::
 ::::
 
@@ -65,7 +69,7 @@ By the end of the course, students will be able to:
 -   play a productive role in and facilitate conversations that tease out the relationships between values and technology.\
 -   through the skills you will refine in writing your research papers, clearly explain how a specific technology shapes the social world that we live in.
 
-## Course Texts
+## Reading Assignments
 
 All weekly reading assignments are linked directly to online sources. Please download and print out PDFs during the first week of the course.
 
@@ -105,7 +109,27 @@ The culminating written assignment for the course (2,000 words) may consist of a
 
 A 1-page preliminary proposal with ideas for your project, with a short bibliography with sources and/or links, should be posted in the Discussion forum for the purpose by the end of Week 5, and you will receive feedback during Week 6.
 
-## Keywords
+## Journals and other research resources
+
+A very useful reference guide for research:
+
+Anabel Quan-Haase and Luke Sloan, eds., **The SAGE Handbook of Social Media Research Methods**. Second edition. London: SAGE Books, 2022.
+
+Includes large sections on both qualitative and quantitative reserach methods, as well as chapters specifically on doing research on YouTube, TikTok, and other platforms.
+
+You are recommended to add all of the sources below to your bookmarks bar for easy access.
+
+[**Data & Society**](https://datasociety.net/)\
+[**e-flux Journal**](https://www.e-flux.com/)\
+[**Invisible Culture: A Journal for Visual Culture**](https://www.invisibleculturejournal.com/)\
+[**New Media & Society**](https://journals.sagepub.com/home/NMS)\
+[**New Models**](https://www.newmodels.io/)
+[**Social Media + Society**](https://journals.sagepub.com/home/SMS)
+[**TikTok Cultures Research Network**](https://tiktokcultures.com/)\
+[**Real Life**](https://reallifemag.com/) (now discontinued online magazine about technology and everyday life)
+[****]()
+
+## Keywords]
 
 - Algospeak
 - Below the Radar (Alternative Social Media)
@@ -129,7 +153,7 @@ A 1-page preliminary proposal with ideas for your project, with a short bibliogr
 
 **Infinite Content**
 
-- Caroline Busta, "[Hallucinating sense in the era of infinity-content](https://www.documentjournal.com/2024/05/technical-images-film01-angelicism-art-showtime-true-detective-shein/)" ([**Document**](https://www.documentjournal.com/), 29 May 2024)
+- Caroline Busta, "[Hallucinating sense in the era of infinity-content](https://www.documentjournal.com/2024/05/technical-images-film01-angelicism-art-showtime-true-detective-shein/)" ([**Document**](https://www.documentjournal.com/), 29 May 2024) \[[Audio](https://soundcloud.com/newmodels/nm-reads-hallucinating-sense-in-the-era-of-infinity-content-by-caroline-busta)\]
 - Nicole Lipman, "[Super Cute Please Like](https://www.nplusonemag.com/issue-47/reviews/super-cute-please-like)" (**n+1** 47 (Spring 2024))
 - Timo Kollbrunner, "[Toiling Away for Shein](https://stories.publiceye.ch/en/shein/)" ([**Public Eye**](https://www.publiceye.ch/en/), November 2021)
 
