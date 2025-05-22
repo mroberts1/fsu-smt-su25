@@ -23,6 +23,8 @@ Please make sure to check the [**YouTube playlist**](https://www.youtube.com/pla
 
 #### Introduction
 
+{{< video https://soundcloud.com/newmodels/nm-reads-hallucinating-sense-in-the-era-of-infinity-content-by-caroline-busta >}}
+
 What does it mean to "theorize" social media today? What exactly does the term "theory" refer to anyway?
 
 To theorize something involves trying to understand its conditions of possibility; put more simply, why something happened, why it is happening now, and how it came to be. When something is too complex to be factually demonstrable, we can still formulate provisional or hypothetical accounts that may be more or less plausible. These accounts are called theoretical **models**: frameworks that try to understand and account for what is going on in the present, how we got here, and what future outcomes might emerge from it.
