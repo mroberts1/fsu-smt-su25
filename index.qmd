@@ -153,8 +153,8 @@ You are recommended to add all of the sources below to your bookmarks bar for ea
 
 **Infinite Content**
 
-- Caroline Busta, "[Hallucinating sense in the era of infinity-content](https://www.documentjournal.com/2024/05/technical-images-film01-angelicism-art-showtime-true-detective-shein/)" ([**Document**](https://www.documentjournal.com/), 29 May 2024) \[[Audio](https://soundcloud.com/newmodels/nm-reads-hallucinating-sense-in-the-era-of-infinity-content-by-caroline-busta)\]
-- Nicole Lipman, "[Super Cute Please Like](https://www.nplusonemag.com/issue-47/reviews/super-cute-please-like)" (**n+1** 47 (Spring 2024))
+- [Caroline Busta](https://carolinebusta.github.io/), "[Hallucinating sense in the era of infinity-content](https://www.documentjournal.com/2024/05/technical-images-film01-angelicism-art-showtime-true-detective-shein/)"^[This text explores how the internet and media are changing how we assign meaning to content, moving beyond traditional text-based communication. It suggests that in a time of infinite content, our ability to sense and interpret non-linear information is becoming essential. The shift towards sensory-based communication may impact how we perceive reality and interact with technology. ---GPT3.5] ([**Document**](https://www.documentjournal.com/), 29 May 2024) \[[Audio](https://soundcloud.com/newmodels/nm-reads-hallucinating-sense-in-the-era-of-infinity-content-by-caroline-busta)\]
+- Nicole Lipman, "[Super Cute Please Like](https://www.nplusonemag.com/issue-47/reviews/super-cute-please-like)" (**n+1** 47 (Spring 2024))^[SHEIN is a popular fast-fashion brand known for its wide range of trendy and affordable clothing. The brand quickly produces garments, capitalizing on micro trends and offering low prices. Despite criticisms of exploitation and environmental impact, SHEIN's unique marketing strategies and expansive catalog make it a prominent player in the fashion industry. ---GPT3.5]
 - Timo Kollbrunner, "[Toiling Away for Shein](https://stories.publiceye.ch/en/shein/)" ([**Public Eye**](https://www.publiceye.ch/en/), November 2021)
 
 ------------------------------------------------------------------------
