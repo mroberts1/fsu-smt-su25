@@ -18,6 +18,9 @@ library(palmerpenguins)
 Caroline Busta, "[Hallucinating sense in the era of infinity-content](https://www.documentjournal.com/2024/05/technical-images-film01-angelicism-art-showtime-true-detective-shein/)" ([**Document**](https://www.documentjournal.com/), 29 May 2024) \[[Audio](https://soundcloud.com/newmodels/nm-reads-hallucinating-sense-in-the-era-of-infinity-content-by-caroline-busta)\]<br><br> Nicole Lipman, "[Super Cute Please Like](https://www.nplusonemag.com/issue-47/reviews/super-cute-please-like)" (**n+1** 47 (Spring 2024))<br><br> Timo Kollbrunner, "[Toiling Away for Shein](https://stories.publiceye.ch/en/shein/)" ([**Public Eye**](https://www.publiceye.ch/en/), November 2021)
 :::
 
+**Note**\
+Please make sure to check the [**YouTube playlist**](https://www.youtube.com/playlist?list=PLx7AcHafElRjqnn6tRYbIEH517L20tt91) for the course, where relevant videos referenced in reading assignments will be posted. For this week, for example, the FILM01 project mentioned in Caroline Busta's article is posted and you are encouraged to take a look at it, or even watch all of it (although it's long!). Similarly the Channel 4 documentary about SHEIN that's mentioned in Nicole Lipman's article is also in the playlist and is worth watching if you're interested in the labor and environmental issues raised by the global fast fashion industry.
+
 #### Introduction
 
 What does it mean to "theorize" social media today? What exactly does the term "theory" refer to anyway?
@@ -48,7 +51,7 @@ While I would agree with Barthes here, it's equally clear that the advent of wha
 
 Busta's point about how "reading," in the sense of the transmission and reception of meaning, has today been superseded by **reaction**, driven more by sensory or affective (emotional) "vibing" certainly seems to make sense as an idea, as well as in terms of our actual experience. Consider, for example, this celebration of what the YouTube critic Patrick Willems calls "vibe movies," which spends 54 minutes explaining to us why trying to actually understand the plot of Christopher Nolan movies in the traditional sense is just barking up the wrong tree because "that's not what they're about".
 
-{{< video https://www.youtube.com/ZStkUxC4iL4 >}}
+{{< video https://youtu.be/ZStkUxC4iL4 >}}
 
 Willems goes on to make the case for an entire genre of "vibe movies," which includes not just Nolan's filmography but anything by the A24 studio, for example. Instead of engaging with and evaluating with movies in terms of old-fashioned realist criteria like plot, character, or the ideological arguments that they are making, we are encouraged simply to "vibe" with them, shifting the emphasis from ideas to affect, from meaning to mood, from plot to atmosphere. It's an argument that on the surface seems appealing--at least you don't have to feel bad anymore about having no clue what's going on in films like **Tenet** or **Interstellar**--- but shouldn't we be scrutinizing the concept of "vibe(s)" itself and critiquing what it stands for, in terms of its prioritizing of affective buzz over anything else and the profit-driven agendas that the invitation to stop **overthinking** (as the anti-intellectual ideology often refers to it) ultimately serves? What does it mean to brazenly invite us just to "feel it" and stop thinking?
 
