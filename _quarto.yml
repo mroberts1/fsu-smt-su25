@@ -15,9 +15,9 @@ website:
             - text: W1 Infinite Content
               file: w1-infinite-content.qmd
             - text: W2a Our Algorithms, Ourselves
-              file: w2-algorithms.qmd
+              file: w2a-algorithms.qmd
             - text: W2b Algorithmic Anxiety
-              file: w2-algorithms.qmd
+              file: w2b-algorithms.qmd
         # - section: "Resources"
         #   contents:
         #     - text: Bibliography
