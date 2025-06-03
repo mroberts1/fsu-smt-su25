@@ -38,7 +38,8 @@ format:
       dark: [ember.scss, custom_callouts.scss, slate]
     css: custom.scss
     self-contained: false
-    page-layout: article
+    grid:
+      body-width: 650px
     linestretch: 1.5
     fontsize: 1em
     smooth-scroll: true
