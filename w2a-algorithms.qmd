@@ -1,31 +1,12 @@
 ---
-title: '  '
+title: 'Platform Desires'
+subtitle: 'Fetishizing the Algorithm'
 toc: false
 ---
 
-```{r}
-#| label: load-packages
-#| include: false
-
-library(tidyverse)
-library(palmerpenguins)
-```
-
 *Sorry for the delay in posting my lecture this week---I had some connectivity issues with my VPN yesterday that took most of the morning to resolve, as well as a personal family issue that is still ongoing.*
 
-## W2: Platform Desires: Fetishizing the Algorithm
-
-::: column-margin
-<br><br><br><br><br><br><br> [Sophie Bishop](https://sophiebishop.co.uk/) and Tanya Kant, "[Algorithmic autobiographies and fictions: A digital method](https://journals.sagepub.com/doi/epub/10.1177/00380261221146403)"<br><br>
-
-[Sophie Bishop](https://sophiebishop.co.uk/), "[Algorithmic Experts: Selling Algorithmic Lore on YouTube](https://journals.sagepub.com/doi/epub/10.1177/2056305119897323)"<br><br>
-
-[Kyle Chayka](https://www.kylechayka.com/), "[Introduction](pdf/filterworld-intro.pdf)" (**Filterworld**)<br><br>
-
-[Kyle Chayka](https://www.kylechayka.com/), "[The Rise of Algorithmic Recommendations](pdf/filterworld-ch1.pdf)"(**Filterworld**, ch. 1)<br><br>
-
-Taylor Lorenz, "[Internet 'algospeak' is changing our language in real time, from 'nip nops' to 'le dollar bean'](https://www.washingtonpost.com/technology/2022/04/08/algospeak-tiktok-le-dollar-bean/)" (**Washington Post**, 8 April 2022)
-:::
+***
 
 >The persistent problem is the fetishization of "algorithms" themselves without widening the perspective to include the many ways in which algorithms are rarely stable and always in relation with people: that is, both in flux and embedded in hybrid spaces. 
 >
@@ -38,6 +19,20 @@ Values**, 1, 77–92.
 >---Sophie Bishop, "[Algorithmic Experts](https://journals.sagepub.com/doi/epub/10.1177/2056305119897323)": 8.<br><br>
 
 What does it mean to describe the algorithm as a "fetish", or to speak of "fetishization" in relation to it? 
+
+::: {.column-margin}
+
+<small>[Sophie Bishop](https://sophiebishop.co.uk/) and Tanya Kant, "[Algorithmic autobiographies and fictions: A digital method](https://journals.sagepub.com/doi/epub/10.1177/00380261221146403)"</small><br><br>
+
+<small>[Sophie Bishop](https://sophiebishop.co.uk/), "[Algorithmic Experts: Selling Algorithmic Lore on YouTube](https://journals.sagepub.com/doi/epub/10.1177/2056305119897323)"</small><br><br>
+
+<small>[Kyle Chayka](https://www.kylechayka.com/), "[Introduction](pdf/filterworld-intro.pdf)" (**Filterworld**)</small><br><br>
+
+<small>[Kyle Chayka](https://www.kylechayka.com/), "[The Rise of Algorithmic Recommendations](pdf/filterworld-ch1.pdf)"(**Filterworld**, ch. 1)</small><br><br>
+
+<small>Taylor Lorenz, "[Internet 'algospeak' is changing our language in real time, from 'nip nops' to 'le dollar bean'](https://www.washingtonpost.com/technology/2022/04/08/algospeak-tiktok-le-dollar-bean/)" (**Washington Post**, 8 April 2022)</small>
+
+:::
 
 Although in popular culture the term "fetish" has a strongly sexual connotations, this is not what we mean here. Historically, the term originates in anthropology, where it is closely related to animistic thinking and a belief in the magical properties of objects, animals, and so on, that makes them worthy of veneration or even worship. The concept was adapted by Karl Marx in his critique of capitalism and what he called the fetishization of **commodities**: the phenomenon whereby commodities just seem to appear in markets as if by magic, completely separated from their original process of production. (It's important **not** to confuse this meaning with the popular understanding of commodity fetishism in consumer society as referring to the almost erotic desire projected onto manufactured objects, encouraged of course by advertising.)
 

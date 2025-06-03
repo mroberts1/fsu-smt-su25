@@ -12,22 +12,12 @@ website:
     contents:
         - section: "Lectures"
           contents:
-            - text: W1 Infinite Content
+            - text: Infinite Content
               file: w1-infinite-content.qmd
-            - text: W2a Our Algorithms, Ourselves
+            - text: Our Algorithms, Ourselves
               file: w2a-algorithms.qmd
-            - text: W2b Algorithmic Anxiety
+            - text: Algorithmic Anxiety
               file: w2b-algorithms.qmd
-        # - section: "Resources"
-        #   contents:
-        #     - text: Bibliography
-        #       file: social-media-bib.qmd
-        #     - text: Digital Gardens
-        #       file: digital-gardens.qmd
-        #     - text: Mastodon
-        #       file: mastodon.qmd
-        #     - text: TikTok Trends
-        #       file: tt-trends.qmd
   navbar:
     background: "#235440"
     right:
@@ -39,27 +29,24 @@ website:
       #   href: https://twitter.com/mroberts_fsu
 format:
   html:
-    toc: true
-    toc-depth: 2
-    toc-location: right
-    toc-title: '   '
+    # toc: false
+    # toc-depth: 2
+    # toc-location: right
+    # toc-title: '   '
     theme:
       light: [ember.scss, custom_callouts.scss]
       dark: [ember.scss, custom_callouts.scss, slate]
     css: custom.scss
     self-contained: false
-    grid:
-        # sidebar-width: 200px
-        body-width: 650px
-        # margin-width: 200px
-        # gutter-width: 2em
-    linestretch: 1.3
-    fontsize: 1.2em
+    page-layout: article
+    linestretch: 1.5
+    fontsize: 1em
     smooth-scroll: true
     # linkcolor: "#235440"
     link-external-newwindow: true
-  # PrettyPDF-pdf: default
+  PrettyPDF-pdf: default
 callout-appearance: default
+bread-crumbs: false
 fig-responsive: true
 image-alt: " "
 execute:

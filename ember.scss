@@ -32,37 +32,37 @@ $font-family-base: "Helvetica Neue", sans-serif;
 // litera is serif by default: revert to san-serif
 p, li, {
   font-family: $font-family-base;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 h1 {
   font-family: $font-family-sans-serif;
   font-weight: 700;
-  //letter-spacing: 1px;
+  letter-spacing: 1px;
   font-size: 30px;
 }
 
 h2, h3, h4, h5, h6 {
   font-family: $font-family-sans-serif;
-  // font-weight: 400;
+  font-weight: 400;
   //text-transform: uppercase;
-  //letter-spacing: 1px;
+  letter-spacing: 1px;
   font-size: 22px;
 }
 
 a:link {
   color: #235440;
-  text-decoration: none;
-  //text-decoration-color: #235440;
-  //text-decoration-thickness: 1px;
-  //text-underline-offset: 3px;
+  text-decoration: true;
+  text-decoration-color: #235440;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
 }
 a:visited {
     color: #235440;
-    text-decoration: none;
-    //text-decoration-color: #235440;
-    //text-decoration-thickness: 1px;
-    //text-underline-offset: 3px;
+    text-decoration: true;
+    text-decoration-color: #235440;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
 }
 a:hover {
   color: white;

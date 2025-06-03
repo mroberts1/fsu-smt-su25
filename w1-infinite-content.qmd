@@ -1,31 +1,25 @@
 ---
-title: '  '
+title: 'Sensory Overload'
+subtitle: 'The Age of Infinite Content'
 toc: false
 ---
 
-```{r}
-#| label: load-packages
-#| include: false
-
-library(tidyverse)
-library(palmerpenguins)
-```
-
-## W1: Sensory Overload in the Age of Infinite Content
-
-::: column-margin
-<br><br><br><br><br><br><br> 
-Caroline Busta, "[Hallucinating sense in the era of infinity-content](https://www.documentjournal.com/2024/05/technical-images-film01-angelicism-art-showtime-true-detective-shein/)" ([**Document**](https://www.documentjournal.com/), 29 May 2024) \[[Audio](https://soundcloud.com/newmodels/nm-reads-hallucinating-sense-in-the-era-of-infinity-content-by-caroline-busta)\]<br><br> Nicole Lipman, "[Super Cute Please Like](https://www.nplusonemag.com/issue-47/reviews/super-cute-please-like)" (**n+1** 47 (Spring 2024))<br><br> Timo Kollbrunner, "[Toiling Away for Shein](https://stories.publiceye.ch/en/shein/)" ([**Public Eye**](https://www.publiceye.ch/en/), November 2021)
-:::
+***
 
 **Note**\
 Please make sure to check the [**YouTube playlist**](https://www.youtube.com/playlist?list=PLx7AcHafElRjqnn6tRYbIEH517L20tt91) for the course, where relevant videos referenced in reading assignments will be posted. For this week, for example, the FILM01 project mentioned in Caroline Busta's article is posted and you are encouraged to take a look at it, or even watch all of it (although it's long!). Similarly the Channel 4 documentary about SHEIN that's mentioned in Nicole Lipman's article is also in the playlist and is worth watching if you're interested in the labor and environmental issues raised by the global fast fashion industry.
 
-#### Introduction
+## Introduction
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1852784358&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/newmodels" title="New Models" target="_blank" style="color: #cccccc; text-decoration: none;">New Models</a> · <a href="https://soundcloud.com/newmodels/nm-reads-hallucinating-sense-in-the-era-of-infinity-content-by-caroline-busta" title="NM Reads: Caroline Busta, &quot;Hallucinating Sense in the Era of Infinity Content&quot; (Document, 2024)" target="_blank" style="color: #cccccc; text-decoration: none;">NM Reads: Caroline Busta, &quot;Hallucinating Sense in the Era of Infinity Content&quot; (Document, 2024)</a></div>
 
 What does it mean to "theorize" social media today? What exactly does the term "theory" refer to anyway?
+
+::: {.column-margin}
+
+<small>Caroline Busta, "[Hallucinating sense in the era of infinity-content](https://www.documentjournal.com/2024/05/technical-images-film01-angelicism-art-showtime-true-detective-shein/)" ([**Document**](https://www.documentjournal.com/), 29 May 2024) \[[Audio](https://soundcloud.com/newmodels/nm-reads-hallucinating-sense-in-the-era-of-infinity-content-by-caroline-busta)\]<br><br> Nicole Lipman, "[Super Cute Please Like](https://www.nplusonemag.com/issue-47/reviews/super-cute-please-like)" (**n+1** 47 (Spring 2024))<br><br> Timo Kollbrunner, "[Toiling Away for Shein](https://stories.publiceye.ch/en/shein/)" ([**Public Eye**](https://www.publiceye.ch/en/), November 2021)</small>
+
+:::
 
 To theorize something involves trying to understand its conditions of possibility; put more simply, why something happened, why it is happening now, and how it came to be. When something is too complex to be factually demonstrable, we can still formulate provisional or hypothetical accounts that may be more or less plausible. These accounts are called theoretical **models**: frameworks that try to understand and account for what is going on in the present, how we got here, and what future outcomes might emerge from it.
 
@@ -37,7 +31,7 @@ I want to start by making it clear, then, that this course is concerned with app
 
 With these clarifications in place, we can move on to the more specific topics of the weekly course readings.
 
-#### Vibing: Sensing over Thinking
+## Vibing: Sensing over Thinking
 
 > *Nice one and beautiful size size and beautiful dress size size and beautiful beautiful size and beautiful dress size size and beautiful dress nice size and beautiful dress size size and beautiful dress dress and dress dress size size and beautiful dress.*
 >

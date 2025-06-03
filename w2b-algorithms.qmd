@@ -1,23 +1,21 @@
 ---
-title: '  '
+title: 'Algorithmic Anxiety'
 toc: false
 ---
 
-```{r}
-#| label: load-packages
-#| include: false
-
-library(tidyverse)
-library(palmerpenguins)
-```
-
-<small>Kyle Chayka, "[How The Internet Turned Us Into Content Machines](https://www.newyorker.com/culture/infinite-scroll/how-the-internet-turned-us-into-content-machines)" (*New Yorker*, 4 June 2022)</small>
-
-## W2: Algorithmic Anxiety
-
-[<br>[Kyle Chayka](https://www.kylechayka.com/), **Filterworld: How Algorithms Flattened Culture**<br><br>"[Introduction](pdf/filterworld-intro.pdf)" <br>"[The Rise of Algorithmic Recommendations](pdf/filterworld-ch1.pdf)" (ch. 1) <br><br>See also: "[The Banality of Online Recommendation Culture](https://www.newyorker.com/culture/infinite-scroll/the-banality-of-online-recommendation-culture)" (*New Yorker*, 30 October 2024)]{.aside}
+***
 
 It can be safely assumed that, for better or worse, in light of the events of the past twenty-four hours the Algorithm is probably the last thing one anyone's mind right now! Nevertheless, I'm going to black-box the election and its aftermath here and stay focused on the topic at hand: the opening two chapters of Kyle Chayka's recent book on algorithmic culture, **Filterworld**.
+
+::: {.column-margin}
+
+<small>Kyle Chayka, "[How The Internet Turned Us Into Content Machines](https://www.newyorker.com/culture/infinite-scroll/how-the-internet-turned-us-into-content-machines)" (**New Yorker**, 4 June 2022)<br><br>
+[Kyle Chayka](https://www.kylechayka.com/), **Filterworld: How Algorithms Flattened Culture**:<br>
+- "[Introduction](pdf/filterworld-intro.pdf)" <br>
+- "[The Rise of Algorithmic Recommendations](pdf/filterworld-ch1.pdf)" (ch. 1)<br>
+- See also: "[The Banality of Online Recommendation Culture](https://www.newyorker.com/culture/infinite-scroll/the-banality-of-online-recommendation-culture)" (**New Yorker**, 30 October 2024)</small>
+
+:::
 
 The chapters themselves are so packed with insights and references to other research sources that I'm not going to add to them here; I'm more interested in hearing your own collective response to them and discussing it with you in the coming week. Instead, I'll limit myself here to connecting you to some of the sources on which Chayka's own book is based, which provide an ideal starting point for anyone interested in exploring the subject for your research project later in the course.
 
@@ -45,19 +43,19 @@ You don't have to answer all of these questions, but for your Review response th
 
 I'm guessing that the section of Chayka's first chapter (not the Introduction, the second, longer chapter) that you found most interesting is about the concept of **algorithmic anxiety**, a term that as he explains was used by Kate Crawford in 2013, was developed in [Patricia De Vries's blog](https://networkcultures.org/contesting-capture-technology/) (well worth checking out!) for the [Institute of Network Cultures](https://networkcultures.org/) website, and was the subject of a 2018 academic paper about [AirBnB](https://shagunjhaver.com/research/articles/jhaver-2018-airbnb/jhaver-2018-airbnb.pdf).De Vries herself subsequently explored the subject in her pathbreaking study [*Algorithmic Anxiety in Contemporary Art*](https://networkcultures.org/blog/publication/tod33-algorithmic-anxiety-in-contemporary-art-a-kierkegaardian-inquiry-into-the-imaginary-of-possibility/) (University of Amsterdam, 2020), available as an open-source publication from the Institute's website.
 
-As Chayka explains, De Vries's book emerged from her research on contemporary digital artists whose work focuses on surveillance and resistance to this, notably [Jill Magid](https://www.jillmagid.com/projects) and [Trevor Paglen](https://paglen.studio/). For a survey of contemporary internet art that includes chaptes on both of these artists, see Lauren Cornell and Ed Halter's anthology, [*Mass Effect: Art and the Internet in the Twenty-First Century*](https://mitpress.mit.edu/9780262029261/mass-effect/) (Cambridge ,MA: MIT Press, 2015).
+As Chayka explains, De Vries's book emerged from her research on contemporary digital artists whose work focuses on surveillance and resistance to this, notably [Jill Magid](https://www.jillmagid.com/projects) and [Trevor Paglen](https://paglen.studio/). For a survey of contemporary internet art that includes chaptes on both of these artists, see Lauren Cornell and Ed Halter's anthology, [*Mass Effect: Art and the Internet in the Twenty-First Century*](https://mitpress.mit.edu/9780262029261/mass-effect/) (Cambridge, MA: MIT Press, 2015).
 
-::: column-margin
+::: {.column-margin}
 [![](img/mass-effect.jpg){width="200"}](https://mitpress.mit.edu/9780262029261/mass-effect/) <br>
 :::
 
 De Vries has a number of interesting presentations about internet art and algorithmic culture on YouTube - I've created a [playlist](https://www.youtube.com/playlist?list=PLx7AcHafElRiGpYPLRM29YzNMMEXyDqmh) for the course and have added them to it, and encourage you to take a look. I'll be adding more YouTube sources to the playlist as the course progresses, so add it to your bookmarks toolbar.
 
-One other source mentioned in Chayka's chapter on algorithmic recommendations is Taylor Lorenz's *Washington Post* article about the concept of **algospeak**, which I'm also linking to here.[<br>Taylor Lorenz, "[Internet ‘algospeak’ is changing our language in real time, from ‘nip nops’ to ‘le dollar bean’](https://www.washingtonpost.com/technology/2022/04/08/algospeak-tiktok-le-dollar-bean/)" (*Washington Post*, 8 April 2022).]{.aside}
+One other source mentioned in Chayka's chapter on algorithmic recommendations is Taylor Lorenz's *Washington Post* article about the concept of **algospeak**, which I'm also linking to here.[<br>Taylor Lorenz, "[Internet ‘algospeak’ is changing our language in real time, from ‘nip nops’ to ‘le dollar bean’](https://www.washingtonpost.com/technology/2022/04/08/algospeak-tiktok-le-dollar-bean/)" (**Washington Post**, 8 April 2022).]{.aside}
 
 Taylor Lorenz is also the author of another interesting recent book about contemporary internet culture.
 
-::: column-margin
+::: {.column-margin}
 [![](img/extremely-online.jpg){width="200"}](https://www.simonandschuster.com/books/Extremely-Online/Taylor-Lorenz/9781982146863)
 
 <br>[**Extremely Online: The Untold Story of Fame, Influence, and Power on the Internet**](https://www.simonandschuster.com/books/Extremely-Online/Taylor-Lorenz/9781982146863) (New York: Simon & Schuster, 2023).
