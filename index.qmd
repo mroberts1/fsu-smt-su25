@@ -167,7 +167,7 @@ You are recommended to add all of the sources below to your bookmarks bar for ea
 - [Sophie Bishop](https://sophiebishop.co.uk/), "[Algorithmic Experts: Selling Algorithmic Lore on YouTube](https://journals.sagepub.com/doi/epub/10.1177/2056305119897323)"
 - [Kyle Chayka](https://www.kylechayka.com/), "[Introduction](pdf/filterworld-intro.pdf)" (**Filterworld**)
 - [Kyle Chayka](https://www.kylechayka.com/), "[The Rise of Algorithmic Recommendations](pdf/filterworld-ch1.pdf)" (**Filterworld**, ch. 1)
-- See also: Taylor Lorenz, "[Internet 'algospeak' is changing our language in real time, from 'nip nops' to 'le dollar bean'](https://www.washingtonpost.com/technology/2022/04/08/algospeak-tiktok-le-dollar-bean/)" (**Washington Post**, 8 April 2022)
+- See also: Taylor Lorenz, "[Internet 'algospeak' is changing our language in real time, from 'nip nops' to 'le dollar bean'](https://www.washingtonpost.com/technology/2022/04/08/algospeak-tiktok-le-dollar-bean/)" (**Washington Post**, 8 April 2022) \[[pdf](pdf/algospeak.pdf)\]  
 
 ------------------------------------------------------------------------
 
