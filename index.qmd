@@ -118,6 +118,7 @@ Includes large sections on both qualitative and quantitative reserach methods, a
 
 You are recommended to add all of the sources below to your bookmarks bar for easy access.
 
+[**Creators and Platform Labor Working Group**](https://www.creator-studies.com/) (Cornell University)\
 [**Data & Society**](https://datasociety.net/)\
 [**e-flux Journal**](https://www.e-flux.com/)\
 [**Invisible Culture: A Journal for Visual Culture**](https://www.invisibleculturejournal.com/)\
@@ -130,8 +131,9 @@ You are recommended to add all of the sources below to your bookmarks bar for ea
 ## Keywords
 
 - Algospeak
-- Below the Radar (Alternative Social Media)
-- Imagined Audience
+- Below the radar (Alternative Social Media)
+- Digital ethnography
+- Imagined audience
 - Livestreaming
 - Parasociality
 - Platformization

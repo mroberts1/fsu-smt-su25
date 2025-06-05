@@ -18,6 +18,8 @@ website:
               file: w2a-algorithms.qmd
             - text: Algorithmic Anxiety
               file: w2b-algorithms.qmd
+            - text: The Artist's Dilemma
+              file: w3-influencers.qmd
   navbar:
     background: "#235440"
     right:
