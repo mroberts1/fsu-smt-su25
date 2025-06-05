@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mroberts1.github.io/fsu-smt-su25/w1-infinite-content.html</loc>
-    <lastmod>2025-06-03T23:19:10.236Z</lastmod>
+    <loc>https://mroberts1.github.io/fsu-smt-su25/w3-influencers.html</loc>
+    <lastmod>2025-06-05T22:43:43.976Z</lastmod>
   </url>
   <url>
-    <loc>https://mroberts1.github.io/fsu-smt-su25/w2b-algorithms.html</loc>
-    <lastmod>2025-06-03T23:43:05.549Z</lastmod>
+    <loc>https://mroberts1.github.io/fsu-smt-su25/index.html</loc>
+    <lastmod>2025-06-05T19:53:33.475Z</lastmod>
   </url>
   <url>
     <loc>https://mroberts1.github.io/fsu-smt-su25/w2a-algorithms.html</loc>
     <lastmod>2025-06-03T23:19:28.260Z</lastmod>
   </url>
   <url>
-    <loc>https://mroberts1.github.io/fsu-smt-su25/index.html</loc>
-    <lastmod>2025-06-03T23:58:19.019Z</lastmod>
+    <loc>https://mroberts1.github.io/fsu-smt-su25/w2b-algorithms.html</loc>
+    <lastmod>2025-06-03T23:43:05.549Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mroberts1.github.io/fsu-smt-su25/w1-infinite-content.html</loc>
+    <lastmod>2025-06-03T23:19:10.236Z</lastmod>
   </url>
 </urlset>
