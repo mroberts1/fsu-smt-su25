@@ -20,6 +20,10 @@ website:
               file: w2b-algorithms.qmd
             - text: The Artist's Dilemma
               file: w3-influencers.qmd
+        - section: "Resources"
+          contents:
+            - text: Theory as Narrative
+              file: theory-narrative.qmd
   navbar:
     background: "#235440"
     right:
