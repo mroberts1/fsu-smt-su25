@@ -124,17 +124,18 @@ You are recommended to add all of the sources below to your bookmarks bar for ea
 [**e-flux Journal**](https://www.e-flux.com/)\
 [**Invisible Culture: A Journal for Visual Culture**](https://www.invisibleculturejournal.com/)\
 [**New Media & Society**](https://journals.sagepub.com/home/NMS)\
-[**New Models**](https://www.newmodels.io/)
-[**Social Media + Society**](https://journals.sagepub.com/home/SMS)
+[**New Models**](https://www.newmodels.io/)\
+[**Social Media + Society**](https://journals.sagepub.com/home/SMS)\
 [**TikTok Cultures Research Network**](https://tiktokcultures.com/)\
 [**Real Life**](https://reallifemag.com/) (now discontinued online magazine about technology and everyday life)
 
 ## Keywords
 
 - Algospeak
-- Below the radar (Alternative Social Media)
+- Below the radar
 - Digital ethnography
 - Imagined audience
+- Imitation publics
 - Livestreaming
 - Parasociality
 - Platformization
@@ -238,10 +239,12 @@ and Improvisation on TikTok](https://scholarlypublishingcollective.org/uip/jac/a
 
 ## Resources
 
-[Sophie Bishop](https://sophiebishop.co.uk/)\ (works on influencer culture)
+[Sophie Bishop](https://sophiebishop.co.uk/)\ (works on influencer culture)\
 [Abbie Richards](https://www.abbiesr.com/about) (TikTok researcher, Media Matters)
 
 ## Bibliography
+
+D. Bondy Valdovinos Kaye, Jing Zeng, and Patrik Wikström, **TikTok: Creativity and culture in short video**. Cambridge: Polity Press, 2022.
 
 danah boyd, **It's Complicated: The Social Lives of Networked Teens** (New Haven: Yale University Press, 2014).
 
