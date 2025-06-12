@@ -20,6 +20,8 @@ website:
               file: w2b-algorithms.qmd
             - text: The Artist's Dilemma
               file: w3-influencers.qmd
+            - text: Bookish
+              file: bookish.qmd
         - section: "Resources"
           contents:
             - text: Theory as Narrative
