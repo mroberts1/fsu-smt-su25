@@ -23,7 +23,7 @@ website:
             - text: Bookish
               file: w4-bookish.qmd
             - text: Platform Effects
-              file: w5-music.qmd
+              file: w5-platform-effects.qmd
         - section: "Resources"
           contents:
             - text: Theory as Narrative
