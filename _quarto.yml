@@ -21,7 +21,9 @@ website:
             - text: The Artist's Dilemma
               file: w3-influencers.qmd
             - text: Bookish
-              file: bookish.qmd
+              file: w4-bookish.qmd
+            - text: Platform Effects
+              file: w5-music.qmd
         - section: "Resources"
           contents:
             - text: Theory as Narrative
