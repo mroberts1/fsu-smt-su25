@@ -4,6 +4,14 @@ subtitle: "Engineering Popularity on Music Platforms"
 toc: false
 ---
 
+![](img/airpods.jpg)  
+
+::: {.column-margin}
+
+<small>David Hesmondhalgh, Ellis Jones, and Andreas Rauh, "[Soundcloud and Bandcamp as Alternative Music Platforms](https://journals.sagepub.com/doi/epub/10.1177/2056305119883429)"<br><br>Jeremy Wade Morris, "[Music Platforms and the Optimization of Culture](https://journals.sagepub.com/doi/epub/10.1177/2056305120940690)"<br><br>Robin James, "[Moving in Stereo](https://reallifemag.com/moving-in-stereo/)"<br><br>D. Bondy Valdovinos Kaye, "[JazzTok: Creativity, Community, and Improvisation on TikTok](https://scholarlypublishingcollective.org/uip/jac/article/6/2/92/383572/JazzTok-Creativity-Community-and-Improvisation-on)"</small>
+
+:::
+
 **Platforms**\
 [Soundcloud](https://soundcloud.com/)\
 [Bandcamp](https://bandcamp.com/)\
@@ -13,12 +21,6 @@ toc: false
 [NTS Radio](https://www.ntsradio.com/)\
 [Tidal](https://tidal.com/)\
 [Youtube Music](https://music.youtube.com/)\
-
-::: {.column-margin}
-
-<small>David Hesmondhalgh, Ellis Jones, and Andreas Rauh, "[Soundcloud and Bandcamp as Alternative Music Platforms](https://journals.sagepub.com/doi/epub/10.1177/2056305119883429)"<br><br>Jeremy Wade Morris, "[Music Platforms and the Optimization of Culture](https://journals.sagepub.com/doi/epub/10.1177/2056305120940690)"<br><br>Robin James, "[Moving in Stereo](https://reallifemag.com/moving-in-stereo/)"<br><br>D. Bondy Valdovinos Kaye, "[JazzTok: Creativity, Community, and Improvisation on TikTok](https://scholarlypublishingcollective.org/uip/jac/article/6/2/92/383572/JazzTok-Creativity-Community-and-Improvisation-on)"</small>
-
-:::
 
 **Key Concepts**\
 algorithmic recognizability -- affective engineering -- behavioural skeuomorphism -- contingency (of cultural commodities) -- culture of connectivity -- cultural optimization -- platformization -- platform effects -- producer/consumer-oriented platforms -- vibe
