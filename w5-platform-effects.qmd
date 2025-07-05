@@ -79,7 +79,7 @@ If you're interested in focusing on a music platform for that assignment, two ot
 **Further Reading**\
 Maria Eriksson, Rasmus Fleischer, Anna Johansson, Pelle Snickars, and Patrick Vonderau, **Spotify Teardown: Inside the Black Box of Streaming Music** (Cambridge, MA: MIT Press, 2019).
 
-Liz Pelly, "[The Problem with Muzak](https://thebaffler.com/salvos/the-problem-with-muzak-pelly)" (**The Baffler** 37 (December 2017)).
+Liz Pelly, "[The Problem with Muzak](https://thebaffler.com/salvos/the-problem-with-muzak-pelly)" (**The Baffler** 37 (December 2017)). [pdf](pdf/pelly-muzak.pdf)
 
 ---, **Mood Machine: The Rise Of Spotify And The Costs Of The Perfect Playlist** (London: Verso, 2025).
 

@@ -24,6 +24,8 @@ website:
               file: w4-bookish.qmd
             - text: Platform Effects
               file: w5-platform-effects.qmd
+            - text: Animated Subjects
+              file: w6-animated-subjects.qmd
         - section: "Resources"
           contents:
             - text: Theory as Narrative
