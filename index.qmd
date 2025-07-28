@@ -3,8 +3,8 @@ title: 'COMM 7018: Social Media Theory'
 ---
 
 :::: {.content-visible when-format="html"}
-::: {layout="[[49, -2, 49]]"}
-[![](img/polyducks.gif){fig-alt="Shibuya Crossing Walkabout, by UK digital artist Ben Jones, aka Polyducks"}](http://polyducks.co.uk/)
+::: {layout="[[50, 50]]"}
+![](img/escher-loop2.gif)
 
 <small>[Fitchburg State University](https://fitchburgstate.edu)\
 [Communications Media Department](https://www.fitchburgstate.edu/academics/academic-schools/school-arts-and-sciences/communications-media-department)\

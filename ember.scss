@@ -32,14 +32,14 @@ $font-family-base: "Helvetica Neue", sans-serif;
 // litera is serif by default: revert to san-serif
 p, li, {
   font-family: $font-family-base;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 h1 {
   font-family: $font-family-sans-serif;
   font-weight: 700;
   letter-spacing: 1px;
-  font-size: 30px;
+  font-size: 28px;
 }
 
 h2, h3, h4, h5, h6 {
@@ -47,7 +47,7 @@ h2, h3, h4, h5, h6 {
   font-weight: 400;
   //text-transform: uppercase;
   letter-spacing: 1px;
-  font-size: 22px;
+  font-size: 20px;
 }
 
 a:link {
